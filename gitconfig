@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = depaulapereira.link@gmail.com
+	name = antonio pereira
